@@ -3,5 +3,6 @@
 - It was made mainly for personal use but I use it everyday and I needed to have a backup so that's why this repository exists. It's public only because I don't think anyone would see this nor find it useful.
 - I plan to make a more featured version with UI, month support and more just to practise my skills.
 - The program is written in Spanish because that's my native language but I plan to translate it to English too.
+- I know it's poorly written but I'm just starting to learn to program so any positive feedback is welcome.
 ## How it works
 You can create dishes and assign them to a day in the week. The dishes can be for lunch or dinner only. Once you finish creating the schedule for one week, the program lets you generate a shopping list so you don't need to worry about creating it. This is possible because when you create a dish you select ingredients and these ingredients are then added to the shopping list (this is useful for me because I can create my schedule and at the same time the list of things that I need to buy for the week). 
